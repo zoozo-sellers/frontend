@@ -92,7 +92,7 @@ function LoginPage() {
             </Button>
           </Form>
           <Message>
-            New to us? <a href="/#/user-registration">Register</a>
+            New to us? <a href="/user-registration">Register</a>
           </Message>
         </div>
       </div>
